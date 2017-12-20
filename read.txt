@@ -1,0 +1,2 @@
+$ git add read.txt
+$ git commit -m "这是你commit的原因，写了方便你我他"
